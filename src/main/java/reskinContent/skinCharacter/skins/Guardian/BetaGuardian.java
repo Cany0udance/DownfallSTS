@@ -1,10 +1,7 @@
 package reskinContent.skinCharacter.skins.Guardian;
 
 import com.megacrit.cardcrawl.core.CardCrawlGame;
-import com.megacrit.cardcrawl.helpers.ImageMaster;
 import downfall.util.TextureLoader;
-import guardian.GuardianMod;
-import guardian.characters.GuardianCharacter;
 import reskinContent.reskinContent;
 import reskinContent.skinCharacter.AbstractSkin;
 
